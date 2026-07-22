@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Week 1: Proposal and Starting Project Research"
@@ -15,8 +14,6 @@ For the patient side, I weighed two options: look for relevant papers published 
 # Results
 The first option is the best one. All I need are real patient cases that have been paired with multiple trials. I can make some changes to fit my project and create my own test cases with patients and trials that still exist on the site.
 Real data is hard to get and verify. There are many datasets out there that could have been synthetically generated. That is fine for practice, but real patient data is raw, messy and I have no medial expertise to say otherwise. Patient data is  sometimes incoherent and always necessary that every all details are taken down. The system changing isn't the goal of my research, so my job is to adapt to it. I used to work at a Medical clinic so I have first hand on how patients give information and how medical professional document them. I was never trained to pick up imposssible data, but again mistakes in data are the best tests for my project. It should be able to handle it and give insights. I'm not worried too much on patient side. The Trial side has the most walls and authorization to deal with. 
-
-
 
 
 
