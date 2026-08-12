@@ -1,4 +1,4 @@
-# Week 7
+.# Week 7
 
 
 ## Goals
@@ -9,8 +9,7 @@ We are back to working on the trainer. Basic Seq-To-Seq T5. Train. Look at resul
    
 
 ## Approach and Implementation
-
-
+Three things to work on, the data, the training model and the DocID. Conversion to the semantic docID was easily. I just use converter script that assigned the the clusters to the trial docs from the TriaLGPT files, then created a new version of the documents with the semantic ids. The old version used the arbitrary DocIDs (001, 002,..., .etc), mine use (Cluster-Specialty Bit Mask- Age - Sex- NCT Tail ). A small change, and something I can feel confident as my own contribution. 
 
 ## Results
 
