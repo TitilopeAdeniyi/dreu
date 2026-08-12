@@ -10,7 +10,7 @@ I am focused on the first pillar only, but the others were intersting to know in
 It did not run on the Knuth, so going further I will only be creating .py files
 
 
-## Approach/Implementation
+## Approach and Implementation
 I read about traditional or "classic" Information retreival pioneers.  Classical IR big names: Salton, Spärck Jones, Robertson. Their work is the foundation everything else sits on. Whatever I thought, they have it published and anything I didn't they've already come up with. I've taken a few papers and books from these indiviuals I will dive into at another time. GEN IR is suprisingly young, so its figures are recent: Metzler, Tay, Lewis. Reading from them made me realize, that the goal isn't about matching pairs, but generating. Something that sounds synomonous when spoken, but wildy different when coding.
 
 In order to start the full coding process, I moved completely to the server. I converted my Jupyter notebook into a Python script, BBB.py, and put it in ~/TestTrials on Knuth. The name was simply a place holder as I got used to using WinSP and the Knuth server, but the script matches synthetic patient profiles against trial eligibility text using SBERT, PubMedBERT, and SapBERT for now. ClinicalBERT, BioBERT, TF-IDF, and BM25 planned next once the format is running smoothly. I redirected all output to out.txt with a so I keep a record. Knuth is terminal heavy and it's easier to review the results in a notepad.txt then constantly scrolling. It's not a perfect situation and pipeline, but it is a working one. 
