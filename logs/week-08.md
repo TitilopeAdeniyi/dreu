@@ -1,10 +1,8 @@
 # Week 8
 
-**Dates:** MM-DD to MM-DD
 
 ## Goals
-
-
+1. Build trie from valid DocID set and constrain beam to it.
 
 ## Approach and Implementation
 
