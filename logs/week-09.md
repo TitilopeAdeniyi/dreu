@@ -1,6 +1,10 @@
+---
+layout: post
+title: "Week 9: The Paper"
+---
 # Week 9
 
-
+**Dates:** 07-06 to 07-12
 
 ## Goals
 The paper was submitted at the start of this week. I took a rest after writing for days straight. Day, night and in dreams.
