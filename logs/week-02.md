@@ -2,6 +2,9 @@
 layout: post
 title: "Week 2: Current Climate of Generative Information Retrival"
 ---
+# Week 2
+
+**Dates:** 05-18 to 05-24
 
 ## Goals
 I played around with pulling trials on my local computer and seeing the entire format and needed information for eligibility matching. Most of the information is left blank after look through numerous examples and the important parts are 3 central areas: age, gender/sex, and inclusion/exclusions. The job is easier than it looks. Age and Inclusion/Exclusion might not be mentioned but gender/sex is always there. These three areas are the top priority. 
