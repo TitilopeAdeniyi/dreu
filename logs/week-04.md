@@ -3,6 +3,9 @@ layout: post
 title: "Week 4: One month into Generative Information Retrieval "
 date: 2026-06-07
 ---
+# Week 4
+
+**Dates:** 06-01 to 06-07
 
 ## Goals
 
