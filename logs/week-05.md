@@ -3,6 +3,10 @@ layout: post
 title: "Week 5: Result Harvest"
 date: 2026-06-14
 ---
+# Week 5
+
+**Dates:** 06-08 to 06-14
+
 
 ## Goals
 
