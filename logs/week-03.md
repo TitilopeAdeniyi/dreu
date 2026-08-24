@@ -2,6 +2,9 @@
 layout: post
 title: "Week 3: Baseline Attempt 1"
 ---
+# Week 3
+
+**Dates:** 05-25 to 05-31
 ## Goals
 First, I will continue reading and collecting papers (Thank you Notes LM)
 Second, I need some code. 
