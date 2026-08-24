@@ -1,5 +1,10 @@
-.# Week 7
+---
+layout: post
+title: "Week 7: New direction"
+---
+# Week 7
 
+**Dates:** 06-22 to 06-28
 
 ## Goals
 We are back to working on the trainer. Basic Seq-To-Seq T5. Train. Look at results. Change into a new direction and retrain. Review results, rinse and repeat. I am getting used to having poor results, but I am glad to have results. 
