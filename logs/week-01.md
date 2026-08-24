@@ -3,7 +3,7 @@ layout: post
 title: "Week 1: Proposal and Starting Project Research"
 ---
 
-# Week 8
+# Week 1
 
 **Dates:** 05-13 to 05-17
 ## Goals
