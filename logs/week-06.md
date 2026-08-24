@@ -1,3 +1,7 @@
+---
+layout: post
+title: "Week 6: Learning to learn "
+---
 # Week 6
 
 **Dates:** 06-15 to 06-21
