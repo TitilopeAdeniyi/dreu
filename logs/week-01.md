@@ -1,8 +1,11 @@
 ---
 layout: post
 title: "Week 1: Proposal and Starting Project Research"
-**Dates:** 05-13 to 05-17
 ---
+
+# Week 8
+
+**Dates:** 05-13 to 05-17
 ## Goals
 Exams are finished. Research begins. Dr. Sun has been an amazing guide and resource even before starting this project. During the school year I was able to get a copy of the proposal and began light reading and practicing my researching skills before May. It was much needed.
 Going in, I needed to figure out how I wanted to organize my files, writing, papers, and handwritten notes, and get myself used to long hours in the lab versus the long hours I spend studying for classes.
