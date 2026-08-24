@@ -1,5 +1,10 @@
+---
+layout: post
+title: "Week 8: Conference Deadline "
+---
 # Week 8
 
+**Dates:** 06-29 to 07-05
 
 ## Goals
 
