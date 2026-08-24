@@ -1,5 +1,10 @@
+---
+layout: post
+title: "Week 10: Fin"
+---
 # Week 10
 
+**Dates:** 07-13 to 07-23
 
 ## Goals
 1. Build poster based on summer research for DREaM scholar workshop in Natick, Massachusetts.
